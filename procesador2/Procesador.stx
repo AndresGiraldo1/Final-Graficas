@@ -1,0 +1,85 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/arqui/procesador2/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.33 secs
+ 
+--> Parameter xsthdpdir set to E:/arqui/procesador2/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.33 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/Procesador is now defined in a different file.  It was defined in "D:/arqui/procesador2/Procesador.vhd", and is now defined in "E:/arqui/procesador2/Procesador.vhd".
+WARNING:HDLParsers:3607 - Unit work/Procesador/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/Procesador.vhd", and is now defined in "E:/arqui/procesador2/Procesador.vhd".
+WARNING:HDLParsers:3607 - Unit work/ALU is now defined in a different file.  It was defined in "D:/arqui/procesador2/ALU.vhd", and is now defined in "E:/arqui/procesador2/ALU.vhd".
+WARNING:HDLParsers:3607 - Unit work/ALU/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/ALU.vhd", and is now defined in "E:/arqui/procesador2/ALU.vhd".
+WARNING:HDLParsers:3607 - Unit work/extensionSigno is now defined in a different file.  It was defined in "D:/arqui/procesador2/extensionSigno.vhd", and is now defined in "E:/arqui/procesador2/extensionSigno.vhd".
+WARNING:HDLParsers:3607 - Unit work/extensionSigno/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/extensionSigno.vhd", and is now defined in "E:/arqui/procesador2/extensionSigno.vhd".
+WARNING:HDLParsers:3607 - Unit work/InstructionMemory is now defined in a different file.  It was defined in "D:/arqui/procesador2/InstructionMemory.vhd", and is now defined in "E:/arqui/procesador2/InstructionMemory.vhd".
+WARNING:HDLParsers:3607 - Unit work/InstructionMemory/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/InstructionMemory.vhd", and is now defined in "E:/arqui/procesador2/InstructionMemory.vhd".
+WARNING:HDLParsers:3607 - Unit work/multiplexor32 is now defined in a different file.  It was defined in "D:/arqui/procesador2/multiplexor32.vhd", and is now defined in "E:/arqui/procesador2/multiplexor32.vhd".
+WARNING:HDLParsers:3607 - Unit work/multiplexor32/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/multiplexor32.vhd", and is now defined in "E:/arqui/procesador2/multiplexor32.vhd".
+WARNING:HDLParsers:3607 - Unit work/NProgramCounter is now defined in a different file.  It was defined in "D:/arqui/procesador2/NProgramCounter.vhd", and is now defined in "E:/arqui/procesador2/NProgramCounter.vhd".
+WARNING:HDLParsers:3607 - Unit work/NProgramCounter/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/NProgramCounter.vhd", and is now defined in "E:/arqui/procesador2/NProgramCounter.vhd".
+WARNING:HDLParsers:3607 - Unit work/ProgramCounter is now defined in a different file.  It was defined in "D:/arqui/procesador2/ProgramCounter.vhd", and is now defined in "E:/arqui/procesador2/ProgramCounter.vhd".
+WARNING:HDLParsers:3607 - Unit work/ProgramCounter/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/ProgramCounter.vhd", and is now defined in "E:/arqui/procesador2/ProgramCounter.vhd".
+WARNING:HDLParsers:3607 - Unit work/PSR is now defined in a different file.  It was defined in "D:/arqui/procesador2/PSR.vhd", and is now defined in "E:/arqui/procesador2/PSR.vhd".
+WARNING:HDLParsers:3607 - Unit work/PSR/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/PSR.vhd", and is now defined in "E:/arqui/procesador2/PSR.vhd".
+WARNING:HDLParsers:3607 - Unit work/PSRM is now defined in a different file.  It was defined in "D:/arqui/procesador2/PSRM.vhd", and is now defined in "E:/arqui/procesador2/PSRM.vhd".
+WARNING:HDLParsers:3607 - Unit work/PSRM/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/PSRM.vhd", and is now defined in "E:/arqui/procesador2/PSRM.vhd".
+WARNING:HDLParsers:3607 - Unit work/RegisterFile is now defined in a different file.  It was defined in "D:/arqui/procesador2/RegisterFile.vhd", and is now defined in "E:/arqui/procesador2/RegisterFile.vhd".
+WARNING:HDLParsers:3607 - Unit work/RegisterFile/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/RegisterFile.vhd", and is now defined in "E:/arqui/procesador2/RegisterFile.vhd".
+WARNING:HDLParsers:3607 - Unit work/sumador32 is now defined in a different file.  It was defined in "D:/arqui/procesador2/sumador32.vhd", and is now defined in "E:/arqui/procesador2/sumador32.vhd".
+WARNING:HDLParsers:3607 - Unit work/sumador32/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/sumador32.vhd", and is now defined in "E:/arqui/procesador2/sumador32.vhd".
+WARNING:HDLParsers:3607 - Unit work/UnidadControl is now defined in a different file.  It was defined in "D:/arqui/procesador2/UnidadControl.vhd", and is now defined in "E:/arqui/procesador2/UnidadControl.vhd".
+WARNING:HDLParsers:3607 - Unit work/UnidadControl/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/UnidadControl.vhd", and is now defined in "E:/arqui/procesador2/UnidadControl.vhd".
+WARNING:HDLParsers:3607 - Unit work/WindowsManager is now defined in a different file.  It was defined in "D:/arqui/procesador2/WindowsManager.vhd", and is now defined in "E:/arqui/procesador2/WindowsManager.vhd".
+WARNING:HDLParsers:3607 - Unit work/WindowsManager/Behavioral is now defined in a different file.  It was defined in "D:/arqui/procesador2/WindowsManager.vhd", and is now defined in "E:/arqui/procesador2/WindowsManager.vhd".
+Compiling vhdl file "E:/arqui/procesador2/PSRM.vhd" in Library work.
+Architecture behavioral of Entity psrm is up to date.
+Compiling vhdl file "E:/arqui/procesador2/PSR.vhd" in Library work.
+Architecture behavioral of Entity psr is up to date.
+Compiling vhdl file "E:/arqui/procesador2/WindowsManager.vhd" in Library work.
+Architecture behavioral of Entity windowsmanager is up to date.
+Compiling vhdl file "E:/arqui/procesador2/NProgramCounter.vhd" in Library work.
+Architecture behavioral of Entity nprogramcounter is up to date.
+Compiling vhdl file "E:/arqui/procesador2/ProgramCounter.vhd" in Library work.
+Architecture behavioral of Entity programcounter is up to date.
+Compiling vhdl file "E:/arqui/procesador2/sumador32.vhd" in Library work.
+Architecture behavioral of Entity sumador32 is up to date.
+Compiling vhdl file "E:/arqui/procesador2/InstructionMemory.vhd" in Library work.
+Architecture behavioral of Entity instructionmemory is up to date.
+Compiling vhdl file "E:/arqui/procesador2/UnidadControl.vhd" in Library work.
+Architecture behavioral of Entity unidadcontrol is up to date.
+Compiling vhdl file "E:/arqui/procesador2/RegisterFile.vhd" in Library work.
+Architecture behavioral of Entity registerfile is up to date.
+Compiling vhdl file "E:/arqui/procesador2/extensionSigno.vhd" in Library work.
+Architecture behavioral of Entity extensionsigno is up to date.
+Compiling vhdl file "E:/arqui/procesador2/multiplexor32.vhd" in Library work.
+Architecture behavioral of Entity multiplexor32 is up to date.
+Compiling vhdl file "E:/arqui/procesador2/ALU.vhd" in Library work.
+Entity <alu> compiled.
+Entity <alu> (Architecture <behavioral>) compiled.
+Compiling vhdl file "E:/arqui/procesador2/Procesador.vhd" in Library work.
+Architecture behavioral of Entity procesador is up to date.
+
+
+Total REAL time to Xst completion: 3.00 secs
+Total CPU time to Xst completion: 3.24 secs
+ 
+--> 
+
+Total memory usage is 215872 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   27 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,5 @@
+set -tmpdir "E:/arqui/procesador2/xst/projnav.tmp"
+set -xsthdpdir "E:/arqui/procesador2/xst"
+elaborate
+-ifn Procesador.prj
+-ifmt mixed
